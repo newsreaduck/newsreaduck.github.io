@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newsreaduck.github.io/sitemap.xml
